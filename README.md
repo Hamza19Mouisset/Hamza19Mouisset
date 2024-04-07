@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Web development, Ethical Hacking, Offensive security, Devensive Security, Red Teaming**
 
+- 📫 How to reach me **https://www.linkedin.com/in/hamza-mouisset-b6625b265/**
+  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
