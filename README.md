@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@msthamza860](https://medium.com/@msthamza860)
 
-- 💬 Ask me about **Web development, Ethical Hacking, Offensive security, Devensive Security, Red Teaming**
+- 💬 Ask me about **Web development, Ethical Hacking, Offensive security, Defensive Security, Red Teaming**
 
 - 📫 How to reach me **https://www.linkedin.com/in/hamza-mouisset-b6625b265/**
   
@@ -31,13 +31,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza19Mouisset&" alt="Hamza19Mouisset" /></p>
 
 ### Blog posts
-
+<div style="background-color: #f0f0f0; color: #333; padding: 20px; border: 1px solid #ccc; border-radius: 5px;">
 <!-- BLOG-POST-LIST:START -->
 - [TryHackMe | Services](https://medium.com/@msthamza860/tryhackme-services-392d2fabdd39?source=rss-717a0010c355------2)
 - [HackTheBox | Analytics](https://medium.com/@msthamza860/hackthebox-analytics-8ff27bd904d5?source=rss-717a0010c355------2)
 - [HackTheBox | Builder](https://medium.com/@msthamza860/hackthebox-builder-4c32d620a663?source=rss-717a0010c355------2)
 <!-- BLOG-POST-LIST:END -->
-
+</div>
 
 <!--
 **Hamza19Mouisset/Hamza19Mouisset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
