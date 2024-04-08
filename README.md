@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Mouisset</h1>
 <h3 align="center">A dedicated Cybersecurity engineering student. With expertise in network security and ethical hacking, I apply hands-on experience in penetration testing. Actively involved in the cybersecurity community.</h3>
 
-<p align="left"> <img src="https://isecurecyber.com/wp-content/uploads/2020/11/cybersecurity.gif"></p>
+<img align="right" width="400" src="https://isecurecyber.com/wp-content/uploads/2020/11/cybersecurity.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza19mst&label=Profile%20views&color=0e75b6&style=flat" alt="hamza19mst" /> </p>
 
