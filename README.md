@@ -33,6 +33,9 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe | Services](https://medium.com/@msthamza860/tryhackme-services-392d2fabdd39?source=rss-717a0010c355------2)
+- [HackTheBox | Analytics](https://medium.com/@msthamza860/hackthebox-analytics-8ff27bd904d5?source=rss-717a0010c355------2)
+- [HackTheBox | Builder](https://medium.com/@msthamza860/hackthebox-builder-4c32d620a663?source=rss-717a0010c355------2)
 <!-- BLOG-POST-LIST:END -->
 
 
